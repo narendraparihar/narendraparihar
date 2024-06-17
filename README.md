@@ -1,10 +1,6 @@
-### Hello 👋  Welcome to my profile
+### 👋 Hi there! Welcome to my profile
 
-Of course, here's a more expressive and detailed version of your GitHub bio:
-
----
-
-👋 Hi there! I'm Narendra Parihar, a passionate software developer with nearly 2 years of hands-on experience in crafting dynamic and scalable web applications. My journey in the tech world has equipped me with a strong proficiency in:
+I'm Narendra Parihar, a passionate software developer with nearly 2 years of hands-on experience in crafting dynamic and scalable web applications. My journey in the tech world has equipped me with a strong proficiency in:
 
 - **ReactJs**: Building interactive and intuitive user interfaces.
 - **Node.js**: Developing efficient and robust backend services.
